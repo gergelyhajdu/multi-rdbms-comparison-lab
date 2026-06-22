@@ -109,6 +109,8 @@ A projekt jelenlegi állapotában mind a hat környezetben megtörtént:
 
 Ez egy tanulási és portfólió célú laborprojekt. A képernyőképek saját, lokális laborkörnyezeteket és tesztadatbázisokat mutatnak. A repository nem tartalmaz éles adatot, jelszót, tokent vagy érzékeny információt.
 
+## Kapcsolódó projekt
+
 Ez a repository az RDBMS-alapozó és összehasonlító labor szerepét tölti be. A több adatbázis-kezelőből történő adatkinyerés külön folytatásként, önálló projektben jelenik meg:
 
 - [multi-rdbms-data-extraction-lab](https://github.com/egyprogramozo/multi-rdbms-data-extraction-lab)
