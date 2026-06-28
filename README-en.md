@@ -48,4 +48,4 @@ This is a learning and portfolio lab. The screenshots show local lab environment
 
 This repository provides the RDBMS foundation and comparison layer. The follow-up project extends this work into a multi-database data extraction workflow:
 
-- [multi-rdbms-data-extraction-lab](https://github.com/egyprogramozo/multi-rdbms-data-extraction-lab)
+- [multi-rdbms-data-extraction-lab](https://github.com/gergelyhajdu/multi-rdbms-data-extraction-lab)

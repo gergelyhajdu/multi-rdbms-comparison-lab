@@ -36,7 +36,7 @@ Angol rövid összefoglaló:
 ## Mappaszerkezet
 
 ```text
-rdbms-comparison-lab/
+multi-rdbms-comparison-lab/
 │
 ├── README.md
 ├── README-en.md
@@ -113,4 +113,4 @@ Ez egy tanulási és portfólió célú laborprojekt. A képernyőképek saját,
 
 Ez a repository az RDBMS-alapozó és összehasonlító labor szerepét tölti be. A több adatbázis-kezelőből történő adatkinyerés külön folytatásként, önálló projektben jelenik meg:
 
-- [multi-rdbms-data-extraction-lab](https://github.com/egyprogramozo/multi-rdbms-data-extraction-lab)
+- [multi-rdbms-data-extraction-lab](https://github.com/gergelyhajdu/multi-rdbms-data-extraction-lab)
